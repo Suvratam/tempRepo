@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# tempRepo
+echo $USERNAME
+
+echo "🔐 Initiating system scan..."
+sleep 1
+echo "🧠 AI core activated."
+sleep 2
+echo "🚨 Unauthorized access detected!"
+sleep 2
+echo "⚠️  Launching self-destruct sequence..."
+sleep 2
+
+for i in {5..1}; do
+  echo "💥 Self-destruct in $i..."
+  sleep 2
+done
+
+echo "💣 BOOM! "
+sleep 1
+echo "😅Just kidding 😄 All systems normal. Have a nice day!"
