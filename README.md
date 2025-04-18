@@ -3,7 +3,6 @@
 # tempRepo
 echo $USERNAME
 
-clear
 echo "🔐 Initiating system scan..."
 sleep 1
 echo "🧠 AI core activated."
